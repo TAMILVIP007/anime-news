@@ -7,11 +7,11 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.INFO)
 
 
-Var = os.environ.get
 
-APP_ID= (Var("API_ID"))
-API_HASH = Var("API_HASH")
-TOKEN = Var("TOKEN")
+
+APP_ID= os.environ.get("API_ID", None)
+API_HASH = os.environ.get("API_HASH", None)
+TOKEN = os.environ.get("TOKEN", None)
 
 #lel
 
