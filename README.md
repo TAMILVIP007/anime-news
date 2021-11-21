@@ -1,5 +1,5 @@
 # Anime-news
-[ok](https://telegra.ph/file/aa363ca3f44a7f9def9aa.jpg)
+![ok](https://telegra.ph/file/aa363ca3f44a7f9def9aa.jpg)
 
 
 
@@ -9,6 +9,7 @@
 
 ## CREDITS
 <b>1</b> [Rin](https://github.com/Nksama) - For api
+
 <b>2</b> [me](http://t.me/tamilvip007) - For this crap
 
 ### Description
